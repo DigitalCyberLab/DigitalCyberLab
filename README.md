@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hello, I'm DigitalCyberLab 👋
 
-<!--
-**DigitalCyberLab/DigitalCyberLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Cybersecurity Professional | Linux Administration | Network Security
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building hands-on experience in cybersecurity, Linux system administration, network security, and infrastructure protection through practical home labs and technical projects.
+
+## 🔐 Cybersecurity Skills & Technologies
+
+- **Operating Systems:** Linux, Ubuntu Server, Windows, macOS
+- **Network Security:** pfSense, Snort, Firewall Configuration
+- **Security Tools:** UFW, Fail2ban, OpenSSH
+- **System Administration:** Linux server configuration, SSH authentication, troubleshooting
+- **Virtualization:** VirtualBox
+- **Version Control:** Git and GitHub
+
+## 🧪 Featured Projects
+
+### Linux Secure Jump Server Lab
+
+A two-server Ubuntu cybersecurity home lab demonstrating:
+
+- SSH public-key authentication
+- Jump Server and Internal Server architecture
+- UFW firewall configuration
+- Fail2ban SSH protection
+- Network access restrictions
+- Security verification and documentation
+
+**Repository:** [Linux Secure Jump Server Lab](https://github.com/DigitalCyberLab/linux-secure-jump-server-lab)
+
+## 📚 Certifications & Professional Development
+
+- Currently studying for **CompTIA Security+ (SY0-701)**.
+- Developing practical Linux and cybersecurity administration skills.
+- Building hands-on experience through independent security labs.
+
+## 🎯 Career Goals
+
+Seeking opportunities in entry-level cybersecurity, SOC analysis, junior security analysis, and IT support.
+
+Interested in learning, developing technical skills, and contributing to protecting systems and networks.
+
+---
+
+*Thank you for visiting my profile!*
